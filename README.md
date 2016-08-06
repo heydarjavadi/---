@@ -1,7 +1,3 @@
 # botnet-detection-project
-this is my bachelor project
-Today, botnets as the greatest opportunity for cybercriminals and considered the biggest challenge for security researchers.
-Botnet is a collection of infected computers that have been scattered across the network and guided by the bot_master.
-An attacker could infect systems without informing the owners of the resources they served to advance the nonproliferation such as distributed attacks, information theft and spamming.
-Bot networks to delay the discovery and its maintenance has many ways one of the most important techniques, domain and IP flux techniques that are associated with the DNS server is used.
-The project seeks to design and implement systems to detect suspicious domains by considering the scope and IP flux techniques used by bot networks.
+امروزه شبکه‌های بات به عنوان بزرگترین فرصت برای مجرمان سایبری و بزرگترین چالش پیش‌روی محققان امنیتی به شمار می‌آید. شبکه بات به مجموعه‌ای از سیستم‌های کامپیوتری آلوده که در سراسر شبکه پراکنده شده‌اند و توسط مهاجمان هدایت می‌شوند اطلاق می‌شود. مهاجم می‌تواند بدون اطلاع صاحبان سیستم‌های آلوده از منابع آنها برای پیشبرد حملاتی نظیر منع خدمت توزیع شده ، سرقت اطلاعت و ارسال هرزنامه استفاده کند.
+شبکه‌های بات برای به تاخیر انداختن کشف و نگهداری خود از روش‌های بسیاری استفاده می‌کنند یکی از مهمترین این تکنیک‌ها، تکنیک‌های شار دامنه و IP هستند که در ارتباط با کارگزار DNS مورد استفاده قرار می‌گیرد. در این پروژه به دنبال طراحی و پیاده سازی سامانه کشف دامنه‌های مشکوک به کارگزاری بات با مدنظر قرار دادن تکنیک‌های شار دامنه و IP که شبکه‌های بات به کار می‌برند، هستیم.
